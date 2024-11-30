@@ -1,3 +1,6 @@
+Izin IP untuk install script ini ke nomor :
+WA : 085223659782
+
 ## UPGRADE FOR DEBIAN
 Masukkan perintah dibawah jika anda menggunakan OS Debian Version 9 atau 10
 ```
