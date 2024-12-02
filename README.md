@@ -1,4 +1,4 @@
-Izin IP untuk install script ini ke nomor :
+Untuk install script ini berikan IP VPS kalian ke nomer ini :
 WA : 085223659782
 
 ## UPGRADE FOR DEBIAN
