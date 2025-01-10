@@ -7,11 +7,11 @@ echo ""
 echo ""
 echo ""
 #sub=$(</dev/urandom tr -dc a-z0-9 | head -c3)
-read -rp "Input Domain Name. Example ( Angga-Store ): " -e sub
-DOMAIN=akunpremium212.my.id
-SUB_DOMAIN=${sub}.akunpremium212.my.id
-CF_ID=anggaadi49876@gmail.com
-CF_KEY=38bd794f53a7feb7efc764d798d3d2d3c522f
+read -rp "Input Domain Name. Example ( Alfi-Store ): " -e sub
+DOMAIN=alfinet.my.id
+SUB_DOMAIN=${sub}.alfinet.my.id
+CF_ID=akungamebebas09@gmail.com
+CF_KEY=cf11e01bcddf575341250e3d9f31ef7a
 set -euo pipefail
 IP=$(curl -sS ifconfig.me);
 echo "Updating DNS for ${SUB_DOMAIN}..."
