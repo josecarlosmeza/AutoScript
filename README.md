@@ -1,3 +1,5 @@
+![alt text](https://github.com/Fitunnel/AutoScript/blob/main/AutoScript.jpg?raw=true)
+
 Untuk install script ini berikan IP VPS kalian ke nomer ini :
 WA : 085223659782
 
