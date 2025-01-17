@@ -100,13 +100,4 @@ systemctl enable "wg-quick@wg0"
 systemctl is-active --quiet "wg-quick@wg0"
 WG_RUNNING=$?
 
-# Tambahan
-cd /usr/bin
-wget -O addwg "https://raw.githubusercontent.com/Fitunnel/AutoScript/main/wireguard/addwg.sh"
-wget -O delwg "https://raw.githubusercontent.com/Fitunnel/AutoScript/main/wireguard/delwg.sh"
-wget -O renewwg "https://raw.githubusercontent.com/Fitunnel/AutoScript/main/wireguard/renewwg.sh"
-chmod +x addwg
-chmod +x delwg
-chmod +x renewwg
-cd
 rm -f /root/wg.sh
