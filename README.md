@@ -18,10 +18,10 @@ apt update && apt upgrade -y && update-grub && sleep 2 && reboot
 ## INSTALL SCRIPT 
 Masukkan perintah dibawah untuk menginstall Autoscript Premium
 ```
-apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Fitunnel/AutoScript/main/setup.sh && chmod +x setup.sh && ./setup.sh
+apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/josecarlosmeza/AutoScript/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 
 ## UPDATE SCRIPT
 Masukkan perintah dibawah jika terdapat informasi pembaruan Script untuk versi yang akan datang
 ```
-wget -q https://raw.githubusercontent.com/Fitunnel/AutoScript/main/update.sh && chmod +x update.sh && ./update.sh
+wget -q https://raw.githubusercontent.com/josecarlosmeza/AutoScript/main/update.sh && chmod +x update.sh && ./update.sh
